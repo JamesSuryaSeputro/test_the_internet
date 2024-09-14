@@ -4,8 +4,8 @@
 3. Install chromedriver
 
 **How to run the test**
-mvn test
+- mvn test
 
 **Generate reports**
-mvn allure:report 
-mvn allure:serve
+- mvn allure:report 
+- mvn allure:serve
