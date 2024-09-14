@@ -7,5 +7,5 @@
 mvn test
 
 **Generate reports**
-mvn allure:report
+mvn allure:report 
 mvn allure:serve
